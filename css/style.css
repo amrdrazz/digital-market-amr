@@ -1329,3 +1329,9 @@ footer .bottom_footer .paymennt_img{
         font-size: 20px;
     }
 }
+@media screen and (max-width:420px) {
+    .checkout .container .ordersummary,
+    .checkout .input_info{
+        width: 97%;
+    }
+}
