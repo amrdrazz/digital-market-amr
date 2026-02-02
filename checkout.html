@@ -30,6 +30,18 @@
         </div>
     </div>
 
+    <div class="fivorite">
+        <div class="top_fivorite">
+            <h3>fivorite items : <span class="count_item_fivorite">0</span></h3>
+            <span class="close_fivorite" onclick="openFivorite()"><i class="fa-regular fa-circle-xmark"></i></span>
+        </div>
+        <div class="items_in_fivorite" id="fivorite_items">
+
+
+
+        </div>
+    </div>
+
     <header>
         <div class="top-header">
             <div class="container">
@@ -54,7 +66,7 @@
                     </button>
                 </form>
                 <div class="header-icons">
-                    <div class="icon">
+                    <div class="icon" onclick="openFivorite()">
                         <a href="#">
                             <i class="fa-regular fa-heart"></i>
                             <span class="count count-fivorite">0</span>
