@@ -37,9 +37,12 @@ var swiper = new Swiper(".swiper-products", {
             slidesPerView:3,
             spaceBetween:15
         },
-        0:{
+        450:{
             slidesPerView:2,
             spaceBetween:10
+        },
+        0:{
+            slidesPerView:1,
         }
     }
 });

@@ -1036,6 +1036,10 @@ footer .bottom_footer .paymennt_img{
         width: 100%;
     }
 
+    .swiper-pagination-bullet-active{
+        width: 20px !important;
+    }
+
     .cart.active,
     .fivorite.active{
         width: 100%;
