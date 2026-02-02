@@ -870,24 +870,6 @@ footer .bottom_footer .paymennt_img{
 
 
 
-/* favorite */
-
-/* .fivorite{
-    position: fixed;
-    top: 0;
-    right: -350px;
-    bottom: 0;
-    background: var(--white_color);
-    z-index: 1101;
-    border-left: 1px solid var(--border_color);
-    width: 350px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    transition: 0.3s ease-in-out;
-} */
-
 
 .close_menu,
 .open_menu{
